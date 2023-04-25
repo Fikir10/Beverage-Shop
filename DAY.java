@@ -1,0 +1,20 @@
+
+public enum DAY {
+	MONDAY,
+	TUESDAY,
+	WEDNESDAY,
+	THURSDAY,
+	FRIDAY,
+	SATURDAY,
+	SUNDAY;
+}
+enum SIZE{
+	SMALL,
+	MEDIUM,
+	LARGE;
+}
+enum TYPE{
+	COFFEE,
+	SMOOTHIE,
+	ALCOHOL;
+}
